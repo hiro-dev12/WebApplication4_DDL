@@ -1,0 +1,2 @@
+# WebApplication4_DDL
+WebApplication4で使用するDDL
